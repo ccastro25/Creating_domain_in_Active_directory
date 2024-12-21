@@ -21,7 +21,7 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 
 #### Do You Need to Have an Actual Domain to Set Up a Domain in Active Directory?
 
-No, you don't need an actual internet domain to set up a domain in Active Directory. You can create a local domain for internal use. When setting up Active Directory, you can choose a unique domain name, such as `example.local` or `internal.companyname`, which will work within your network environment. This local domain won't be accessible from the internet but will function perfectly for managing resources and users within your local network.
+***No***, you don't need an actual internet domain to set up a domain in Active Directory. You can create a local domain for internal use. When setting up Active Directory, you can choose a unique domain name, such as `example.local` or `internal.companyname`, which will work within your network environment. This local domain won't be accessible from the internet but will function perfectly for managing resources and users within your local network.
 
 ---
 
