@@ -25,7 +25,7 @@ No, you don't need an actual internet domain to set up a domain in Active Direct
 
 ---
 
-# Active Directory Crash Course
+
 
 - Click **Next** and set the **Domain Controller Options**, including the Directory Services Restore Mode (DSRM) password.
 - Click **Next** through the DNS options and Additional Options screens.
