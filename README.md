@@ -38,10 +38,6 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 - Open **DNS Manager** from Server Manager.
 - Create a new forward lookup zone with the fully qualified domain name (FQDN) of your new domain.
 
-### 4. Verify and Replicate
-
-- Ensure replication is working correctly if you have multiple domain controllers.
-- Use the command `repadmin /syncall /AdeP` in PowerShell or Command Prompt to force replication.
 
 ### 5. Check Domain Health
 
