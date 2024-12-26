@@ -11,10 +11,9 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 
 - Open **Server Manager** and click on **Add Roles and Features**.
 - Follow the wizard to install **Active Directory Domain Services**.
-- After installation, you’ll see a notification flag at the top right. Click it and select **Promote this server to a domain controller**.
 
 ### 2. Promote the Server to a Domain Controller
-
+- After installation, you’ll see a notification flag at the top right. Click it and select **Promote this server to a domain controller**.
 - Choose **Add a new forest** if it's a new domain. Enter the root domain name (e.g., `example.com`).
 
 ---
