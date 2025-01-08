@@ -11,8 +11,20 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 
 ### 1. Install Active Directory Domain Services (AD DS)
 
-- Click on  **Manager**  tab and select **Add Roles and Features**.
-- Follow the wizard to install **Active Directory Domain Services**.
+- Open **Server Manager** and click on **Add Roles and Features** in the **Manage** tab.
+- A window will pop up:
+  - **Before You Begin**: Click **Next**.
+  - **Installation Type**: Leave the default selection and click **Next**.
+  - **Server Selection**: Leave the default selection and click **Next**.
+  - **Server Roles**: Select **Active Directory Domain Services**.
+- The **Add Roles and Features Wizard** window will appear:
+  - Click **Add Features**.
+- Now that you're back to the **Server Roles** tab, click **Next**.
+- At the **AD DS** tab, click **Next**.
+- At the **Confirmation** tab, select **Restart**:
+  - Select **Restart the destination server automatically if required**.
+  - Click **Install**.
+
 
 ### 2. Promote the Server to a Domain Controller
 - After installation, you’ll see a notification flag at the top right. Click it and select **Promote this server to a domain controller**.
