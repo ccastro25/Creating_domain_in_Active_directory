@@ -9,7 +9,7 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 
 ### 1. Install Active Directory Domain Services (AD DS)
 
-- Open **Server Manager** and click on **Add Roles and Features**.
+- Click on  **Manager**  tab and select **Add Roles and Features**.
 - Follow the wizard to install **Active Directory Domain Services**.
 
 ### 2. Promote the Server to a Domain Controller
