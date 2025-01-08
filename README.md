@@ -25,6 +25,11 @@ I didn't have any Active Directory options within Server Manager. I tried to add
   - Select **Restart the destination server automatically if required**.
   - Click **Install**.
 
+![Install Active Directory Domain Services (AD DS)](https://github.com/user-attachments/assets/a223c59c-a438-4bd2-a910-b328a075781e)
+
+
+
+
 
 ### 2. Promote the Server to a Domain Controller
 - After installation, you’ll see a notification flag at the top right. Click it and select **Promote this server to a domain controller**.
