@@ -3,6 +3,8 @@
 ## Adding Active Directory Options in Server Manager
 
 I didn't have any Active Directory options within Server Manager. I tried to add it through Apps, but it did not work. Then, I tried the following command through PowerShell, and it worked: ```Install-WindowsFeature RSAT-AD-Tools```
+![Install Active Directory Domain Services (AD DS)](https://github.com/user-attachments/assets/b03855e8-cd14-471f-b193-f0f5a870718b)
+
 # Adding Domain to Active Directory
 
 
