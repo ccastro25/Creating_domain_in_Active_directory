@@ -50,6 +50,7 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 - Review and confirm the **NetBIOS name**, which is typically a shorter name for the domain.
 - Leave the default paths for the AD DS database, log files, and SYSVOL. Click **Next**.
 - Review your selections and click **Install**.
+![Edited Promote the Server to a Domain Controller](https://github.com/user-attachments/assets/dbca593c-5fe0-452e-b805-eac744ca0978)
 
 ### 3. Configure DNS
 
