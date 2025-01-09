@@ -52,10 +52,17 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 - Review your selections and click **Install**.
 ![Edited Promote the Server to a Domain Controller](https://github.com/user-attachments/assets/dbca593c-5fe0-452e-b805-eac744ca0978)
 
-### 3. Configure DNS
+### 3. Check DNS for fully qualified domain name
 
-- Open **DNS Manager** from Server Manager.
-- Create a new forward lookup zone with the fully qualified domain name (FQDN) of your new domain.
+- select Tools tab
+- click on DNS
+- DNS Manager window will appear
+- double click on the small server Under DNS
+- double click Foward Look Zones 
+   - there you will see your Domain 
+    a new forward lookup zone with the
+    fully qualified domain name (FQDN) of 
+    your new domain.
 
 
 ### 5. Check Domain Health
