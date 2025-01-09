@@ -69,11 +69,12 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 
 
 
-### 5. Check Domain Health
+### 4. Check Domain Health
 
 - Run `dcdiag` to check the health of your domain and ensure everything is configured correctly.
+![Check Domain Health](https://github.com/user-attachments/assets/5f37b880-2ff6-4dbb-8909-b3516cff9edf)
 
-### 6. Join Computers to the Domain
+### 5. Join Computers to the Domain
 
 - On the client computer, go to **System Properties > Computer Name > Change**.
 - Select **Domain**, enter the domain name, and click **OK**.
