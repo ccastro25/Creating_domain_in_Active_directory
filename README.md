@@ -48,7 +48,7 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 - Click **Next** and set the **Domain Controller Options**, including the Directory Services Restore Mode (DSRM) password.
 - Click **Next** through the DNS options and Additional Options screens.
 - Review and confirm the **NetBIOS name**, which is typically a shorter name for the domain.
-- Specify the paths for the AD DS database, log files, and SYSVOL. Click **Next**.
+- Leave the default paths for the AD DS database, log files, and SYSVOL. Click **Next**.
 - Review your selections and click **Install**.
 
 ### 3. Configure DNS
