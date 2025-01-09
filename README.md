@@ -52,7 +52,7 @@ I didn't have any Active Directory options within Server Manager. I tried to add
 - Review your selections and click **Install**.
 ![Edited Promote the Server to a Domain Controller](https://github.com/user-attachments/assets/dbca593c-5fe0-452e-b805-eac744ca0978)
 
-### 3. Check DNS for fully qualified domain name
+### 3. Check for fully qualified domain name
 
 - select Tools tab
 - click on DNS
@@ -63,6 +63,10 @@ I didn't have any Active Directory options within Server Manager. I tried to add
     a new forward lookup zone with the
     fully qualified domain name (FQDN) of 
     your new domain.
+
+![Check for fully qualified domain name](https://github.com/user-attachments/assets/a2e2b9bf-6c30-41e3-a717-dcc9bd6740ae)
+
+
 
 
 ### 5. Check Domain Health
